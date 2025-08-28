@@ -28,4 +28,4 @@ A **MERN stack application** (MongoDB, Express.js, React.js, Node.js) with **Red
 
 ### 1️⃣ Clone the Repository
 ```powershell
-git clone https://github.com/Geekykiran/AI-Powered-Personal-Finance-and-Portfolio-Manager.git
+git clone https://github.com/Geekykiran/AI-Powered-Personal-Finance-and-Portfolio-Manager-mern.git
